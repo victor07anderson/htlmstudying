@@ -1,0 +1,8 @@
+            
+            
+            h2{color:red}
+            h1, p{color:green}
+            div.rosana p {background-color: blue;} /* parag of div in rosana class*/
+            div.roberto p b {background-color: rgb(0, 174, 255);} /* parag and bold of div in roberto class*/
+            #vanessa {border:solid 20px cyan} /* id vanessa*/
+            .street {color:red; background-color: darkgray;} /*street class*/
